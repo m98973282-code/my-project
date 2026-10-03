@@ -1,0 +1,16 @@
+# my-project
+git checkout -b boss
+echo  > boss.txt
+git add .
+git commit -m 
+git push -u origin boss
+git checkout -b admin
+echo  > admin.txt
+git add .
+git commit -m 
+git push -u origin admin
+git checkout -b user
+echo  > user.txt
+git add .
+git commit -m
+git push -u origin user
